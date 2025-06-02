@@ -1,0 +1,11 @@
+Tipo;Bloom;Enunciado;Opciones;Respuesta
+OPCION_MULTIPLE;APLICAR;"¿Cuál es el resultado de 5 × 7?";"28,35,42,49";35
+VERDADERO_FALSO;RECORDAR;"El resultado de 9 ÷ 3 es 4";"Verdadero,Falso";Falso
+RESPUESTA_CORTA;COMPRENDER;"¿Cuál es la raíz cuadrada de 64?";"";8
+TEXTO_INCOMPLETO;APLICAR;"El perímetro de un cuadrado se calcula multiplicando la longitud de un lado por ___";"";4
+OPCION_MULTIPLE;ANALIZAR;"¿Cuál de estos números es primo?";"9,15,21,23";23
+VERDADERO_FALSO;COMPRENDER;"Todas las fracciones equivalentes representan el mismo valor numérico";"Verdadero,Falso";Verdadero
+RESPUESTA_CORTA;APLICAR;"Si x + 5 = 12, ¿cuál es el valor de x?";"";7
+TEXTO_INCOMPLETO;RECORDAR;"En la operación 3^4, el número 3 se llama ___";"";base
+OPCION_MULTIPLE;EVALUAR;"¿Qué fracción es equivalente a 0.75?";"1/4,2/3,3/4,4/5";3/4
+VERDADERO_FALSO;APLICAR;"El mínimo común múltiplo de 4 y 6 es 12";"Verdadero,Falso";Verdadero
